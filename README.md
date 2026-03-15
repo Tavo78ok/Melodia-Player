@@ -1,4 +1,4 @@
-## 🎵 Melodia
+## 🎵 Melodia Music Player
 
 > A beautiful, dark music player for Linux — built with **Python 3**, **GTK4**, and **libadwaita**.
 
@@ -89,3 +89,5 @@ melodia/
 ## License
 
 GNU General Public License v3.0
+
+
