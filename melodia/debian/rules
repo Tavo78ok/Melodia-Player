@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ --with python3 --buildsystem=pybuild
+
+override_dh_auto_install:
+	dh_auto_install
+	# Install desktop file
+	install -Dm644 data/com.github.melodia.desktop \
+		debian/melodia/usr/share/applications/com.github.melodia.desktop
+	# Install icon
+	install -Dm644 data/icons/hicolor/scalable/apps/com.github.melodia.svg \
+		debian/melodia/usr/share/icons/hicolor/scalable/apps/com.github.melodia.svg

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Melodia
+GenericName=Music Player
+Comment=A beautiful music player for Linux
+Exec=melodia %U
+Icon=com.github.melodia
+Terminal=false
+Categories=Audio;Music;Player;GTK;
+MimeType=audio/mpeg;audio/x-vorbis+ogg;audio/flac;audio/x-flac;audio/mp4;audio/x-m4a;audio/ogg;audio/x-wav;audio/opus;audio/webm;
+Keywords=music;player;audio;mp3;flac;ogg;
+StartupWMClass=melodia
+StartupNotify=true

@@ -1,0 +1,8 @@
+melodia (1.2.0-1) unstable; urgency=low
+
+  * Persistent config: remembers music folder, volume, shuffle, repeat.
+  * Working Settings dialog (Adw.PreferencesDialog).
+  * Synced lyrics panel via lrclib.net (no API key needed).
+  * New lyrics toggle button in header bar.
+
+ -- Your Name <you@example.com>  Sun, 15 Mar 2026 00:00:00 +0000
