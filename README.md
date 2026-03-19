@@ -90,12 +90,12 @@ melodia/
 
 GNU General Public License v3.0
 
-<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-16-41" src="https://github.com/user-attachments/assets/59344df8-4483-4c72-9948-09b8080ee6d5" />
+<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-16-41" src="https://github.com/user-attachments/assets/586575d9-9742-4aa2-a545-1f9352379378" />
 
-<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-16-41" src="https://github.com/user-attachments/assets/99fc177e-1426-4322-8a1f-a29bba8b7993" />
-
-<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-17-16" src="https://github.com/user-attachments/assets/9ce6dd76-c833-42ec-81e3-86d318e7737e" />
+<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-17-16" src="https://github.com/user-attachments/assets/516eec69-4322-4ab9-af74-2bc095cd1803" />
 
 
+<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-17-50" src="https://github.com/user-attachments/assets/43dc3402-a79a-4712-b551-33bd45848c49" />
 
-<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-17-50" src="https://github.com/user-attachments/assets/e4fc3167-8bf9-4d9d-b033-3cf4b9472234" />
+
+
